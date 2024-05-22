@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/huhuijie/Documents/GitHub/okndk/app/.cxx/Debug/6651n6p1/x86",
+  "command": "/Users/huhuijie/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android21 --sysroot=/Users/huhuijie/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dokndk_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/okndk.dir/native-lib.cpp.o -c /Users/huhuijie/Documents/GitHub/okndk/app/src/main/cpp/native-lib.cpp",
+  "file": "/Users/huhuijie/Documents/GitHub/okndk/app/src/main/cpp/native-lib.cpp"
+}
+]

@@ -1,0 +1,4 @@
+# ninja log v5
+0	197	1716344685079400732	CMakeFiles/okndk.dir/native-lib.cpp.o	a59eece0c9d59a98
+197	262	1716344685125349601	/Users/huhuijie/Documents/GitHub/okndk/app/build/intermediates/cxx/Debug/6651n6p1/obj/arm64-v8a/libokndk.so	977e896b2cffaf49
+0	5	0	clean	755c74a6dcbdaa76

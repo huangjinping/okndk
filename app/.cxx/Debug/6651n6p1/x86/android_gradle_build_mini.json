@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/huhuijie/Documents/GitHub/okndk/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/huhuijie/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/huhuijie/Documents/GitHub/okndk/app/.cxx/Debug/6651n6p1/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/huhuijie/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/huhuijie/Documents/GitHub/okndk/app/.cxx/Debug/6651n6p1/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "okndk::@6890427a1f51a3e7e1df": {
+      "artifactName": "okndk",
+      "abi": "x86",
+      "output": "/Users/huhuijie/Documents/GitHub/okndk/app/build/intermediates/cxx/Debug/6651n6p1/obj/x86/libokndk.so",
+      "runtimeFiles": []
+    }
+  }
+}
